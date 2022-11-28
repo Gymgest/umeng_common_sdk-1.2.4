@@ -5,7 +5,10 @@
 在工程 pubspec.yaml 中加入 dependencies
 
 dependencies:
-  umeng_common_sdk: 1.2.4
+  umeng_common_sdk:
+    git:
+      url: git@gitlab.gz.cvte.cn:gymgest/mobile/umeng_common_only_ios_sdk.git
+      ref: master
 
 # 使用
 
