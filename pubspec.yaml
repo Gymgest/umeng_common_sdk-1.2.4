@@ -28,7 +28,7 @@ flutter:
     platforms:
       android:
         package: com.umeng.umeng_common_sdk
-        pluginClass: UmengCommonSdkPlugin
+        pluginClass: UmengCommonSdkPlugin1
       ios:
         pluginClass: UmengCommonSdkPlugin
 
